@@ -1,0 +1,2 @@
+def isvaliduser():
+    pass
